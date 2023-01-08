@@ -1,0 +1,19 @@
+// This configuration targets the ...
+//   https://github.com/modern-email/questions_imap
+// ... repository and the ...
+//   https://www.rfc-editor.org/rfc/rfc9051.txt
+// ... document.
+(
+    // Owner, i.e., user or organisation, of the repository.
+    owner: "modern-email",
+    // Repository name.
+    repo: "questions_imap",
+    // The mode in which to use the tool.
+    // Either ...
+    //   `ReadOnly`
+    // ... or ...
+    //   `ReadWrite("Path to file with Personal Access Token (PAT)")`.
+    mode: ReadWrite("pat.txt"),
+    // Path to the to-be-annotated document.
+    document: "assets/rfc9051.txt",
+)
