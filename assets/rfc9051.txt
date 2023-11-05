@@ -1,7 +1,3 @@
-﻿
-
-
-
 Internet Engineering Task Force (IETF)                  A. Melnikov, Ed.
 Request for Comments: 9051                                     Isode Ltd
 Obsoletes: 3501                                            B. Leiba, Ed.
